@@ -14,9 +14,9 @@ El propósito del proyecto es practicar validación de formularios, manejo de ar
 
 ## Cómo usarlo
 1. Abrir el archivo `index.html` en un navegador web.
-2. Escribir un nombre en el campo de entrada y presionar el botón "Añadir".
+2. Escribir un nombre en el campo de entrada y presionar el botón **Añadir**.
 3. Repetir el proceso para ingresar más nombres.
-4. Presionar el botón "Sortear amigo" para elegir un amigo secreto.
+4. Presionar el botón **Sortear amigo** para elegir un amigo secreto.
 5. El resultado aparecerá en la sección de resultados.
 
 ## Ayuda
