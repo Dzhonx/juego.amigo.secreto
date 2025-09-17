@@ -12,11 +12,8 @@ function agregarAmigo(){
         // Agragando a la lista
         arrayAmigos.push(nombreAmigo);
 
-        // Mostrando lista
-        let lista = document.getElementById("listaAmigos");
-        let fila = document.createElement("li");
-        fila.textContent = nombreAmigo;
-        lista.appendChild(fila);
+        //Funcion mostrar amigos
+        mostrarAmigos();
 
         // Limpiando el input
         inputAmigo.value = "";
